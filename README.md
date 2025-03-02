@@ -1,6 +1,6 @@
-**SBI Banking System in Python**  
+** Bank Account Management System**  
 
-The **SBI Banking System** is a Python-based application that simulates essential banking operations, allowing customers to manage their accounts efficiently. This project leverages **Object-Oriented Programming (OOP)** principles to ensure a structured and modular approach to banking functionalities.  
+The **Bank Account Management System** is a Python-based application that simulates essential banking operations, allowing customers to manage their accounts efficiently. This project leverages **Object-Oriented Programming (OOP)** principles to ensure a structured and modular approach to banking functionalities.  
 
 #### **Key Features:**  
 ✔ **Customer Account Management** – Users can create accounts with details like name, phone number, age, Aadhaar number, and address. Each account is assigned a unique account number.  
